@@ -9,13 +9,13 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 ---
 
 ### My Interests
- - Microbial Genomics and Metagenomics
- - Omics approaches
- - Genome editing and Synthetic biology
- - Host-microbes interaction
- - Rapid disease diagnostic
- - CRISPR/Cas system.
-
+- Omics approaches for crop improvement
+- Host-microbes’ interaction
+- Molecular breeding
+- Genome editing and Synthetic biology
+- Rapid disease diagnostic
+- CRISPR/Cas system
+- Microbial Genomics and Metagenomics
 
 # <span style="color:#33bbff">Research</span>
 
