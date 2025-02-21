@@ -99,7 +99,7 @@ In essence, this research serves as a shining example of how science can address
 
 **Position:** Research Assistant  _(December 2023 - November 2024)_
 
-**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
+**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://gau.edu.bd/dipali/)
 
 **Job Description:** Developing a biocontrol strategy against blast disease by investigating the anti-fungal activity of 3-Methyl-pentanoic acid (3MP), a VOC produced by *Bacillus safensis*, to induce systemic resistance in wheat.  
 
@@ -116,7 +116,7 @@ In essence, this research serves as a shining example of how science can address
 
 **Position:** Research Assistant _(February 2024 - December 2024)_
 
-**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
+**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://gau.edu.bd/dipali/)
 
 **Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
 
@@ -174,11 +174,11 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ## Work Experience
 
-- [Research Management Wing (RMW), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)](https://www.researchgate.net/profile/Rojana-Azad) - (_January 2023 - July 2024_)
+- [Research Management Wing (RMW), Gazipur Agricultural University (GAU)](https://www.researchgate.net/profile/Rojana-Azad) - (_January 2023 - July 2024_)
   - Principal Investigator 
   - I led the development of blast-resistant wheat varieties through bioassays, field tests, and marker-assisted breeding.
   
-- [Institute of Biotechnology and Genetic Engineering (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
+- [Institute of Biotechnology and Genetic Engineering (IBGE), Gazipur Agricultural University (GAU)](https://ibge.gau.edu.bd/) - (_January 2022 - December 2024_)
   - Research Assistant (RA) under [Prof. Dr. Tofazzal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
   - I conducted pathogen characterization, fungal management research, and resistance screening.  
 
@@ -189,14 +189,14 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 ### Graduate  
 
    - **<span style="color:#33bbff">Master of Science, Biotechnology and Genetic Engineering</span>** - (_January 2022 - December 2024_)
-     - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
+     - Institute of Biotechnology (IBGE), Gazipur Agricultural University (GAU) 
           - Academic Thesis: <ins>Resistance and yield performance on advanced wheat lines carrying _2NS_ translocation and _RMG8_ gene </ins>
           - CGPA: **4.00/4.00** 
 
 ### Undergraduate  
 
    - **<span style="color:#33bbff">Bachelor of Science, Agriculture</span>** - (_January 2017 - December 2021_)
-     -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU) 
+     -  Gazipur Agricultural University (GAU) \[ Formerly Known as Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)]
         - CGPA: **3.879/4.00** 
    
 ---
