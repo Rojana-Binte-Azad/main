@@ -140,7 +140,7 @@ In response to the 2024 re-emergence of Spot Blotch Disease in Bangladesh, this 
 
 ## Publications & Preprints
 
-1. [Horizontal Gene Transfer in Plants and Implications for Biotechnology.] (https://doi.org/10.1002/pei3.70087)
+1. [Horizontal Gene Transfer in Plants and Implications for Biotechnology.](https://doi.org/10.1002/pei3.70087)
 **Azad, R. B.**, Kasfy, S. H. , Molla, K. A. & Islam, M. T. (2025). Plant- Environment Interaction, 6.5,  e70087.
     <details>
         <summary><strong>Abstract</strong></summary>
