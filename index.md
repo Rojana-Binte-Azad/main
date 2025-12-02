@@ -2,19 +2,19 @@
 
 ## Welcome to Rojana Binte Azad's Website
 
-Hello! I am Rojana Binte Azad, a passionate microbiology and molecular genetics researcher with a deep commitment to advancing agricultural and biological sciences. My journey began with a fascination for biological systems, leading me to pursue academic and research excellence in plant genetics, microbial interactions, and disease resistance.
-
-With a solid foundation in agricultural science and biotechnology, I have spearheaded projects to improve wheat blast resistance and manage fungal pathogens. As the first woman in my family to pursue a PhD, I aim to inspire future generations to see research as achievable and transformative. In the future, I want to explore the molecular mechanisms of biological systems and contribute to innovative solutions for global challenges.
+Hello! I am Rojana Binte Azad, 
+Aspiring Plant Genomicist & Biotechnologist | M.S. in Biotechnology and Genetic Engineering
+I am a plant researcher passionate about engineering climate-resilient crops. My work bridges the gap between molecular breeding and functional genomics. Previously, I utilized Marker-Assisted Selection (MAS) to stack blast-resistance genes ($Rmg8$ and $2NS$) into wheat 11and investigated the chemical ecology of host-microbe interactions22. I am now seeking to leverage Plant Genomics and Functional Genetics to decode the complex genetic networks underlying disease resistance and crop yield.
 
 ---
 
 ### My Interests
- - Microbial Genomics and Metagenomics
- - Omics approaches
  - Genome editing and Synthetic biology
  - Host-microbes interaction
+ - Omics approaches
  - Rapid disease diagnostic
- - CRISPR/Cas system.
+ - CRISPR/Cas system
+ - Microbial Genomics and Metagenomics
 
 # <span style="color:#33bbff">Research</span>
 
@@ -42,22 +42,28 @@ The identification and detailed characterization of the major resistance gene _R
 The possible introgression of _Rmg8_ with other R genes for combating wheat blast disease through marker-assisted molecular breeding.
 
 ### Key Findings
-The research led to the development of 16 advanced wheat lines that successfully combined the _Rmg8_ and 2NS resistance genes. These plants showed significant resistance to wheat blast under real-world field conditions, a critical step toward creating a durable and high-yielding variety for farmers.
+The research led to the development of advanced wheat lines that successfully combined the _Rmg8_ and 2NS resistance genes. These plants showed significant resistance to wheat blast under real-world field conditions, a critical step toward creating a durable and high-yielding variety for farmers.
 
 Additionally, the study demonstrated that combining resistance genes can be more effective than relying on a single gene, especially in environments where temperature and humidity fluctuate. This finding highlights the importance of gene stacking as a long-term solution to combat diseases like wheat blast.
 
-![Blast in different temperatures](assets/img/testy.gif)
+![image20253](assets/img/img20253.jpeg)
 
-### Broader Implications
-This work not only advances wheat blast research but also contributes to the larger goal of sustainable agriculture. By developing disease-resistant varieties, farmers can reduce their reliance on chemical fungicides, which are expensive, harmful to the environment, and often ineffective. Moreover, these new wheat varieties can help ensure a stable food supply in regions most vulnerable to the impacts of climate change and crop diseases.
+![image20254](assets/img/img20254.jpeg)
 
-### Beyond Wheat Blast
-The researcher also explored other innovative approaches to combat plant diseases, such as using natural compounds produced by bacteria to fight fungal infections. For example, a volatile organic compound (VOC) called 3-Methyl-pentanoic acid (3MP), derived from the bacteria _Bacillus safensis_, was studied for its ability to enhance the plant's own defenses against wheat blast. This research opens doors to environmentally friendly and sustainable biocontrol strategies for crop protection.
+### Mutation Breeding Approach
+To combat the growing threat of wheat blast, a comprehensive mutation breeding program was executed utilizing Gamma ray, X-ray, and Ion beam irradiation to induce resistance in high-yielding wheat varieties. Employing an ear-to-row method and rigorous artificial inoculation assays, populations were advanced and screened across multiple generations for disease resistance and agronomic performance. The Gamma irradiation trial advanced to the M5 generation, resulting in the selection superior progenies characterized by low disease severity and high yield potential.
 
-### Why This Matters
-Diseases like wheat blast pose a serious threat to global food security, especially in developing countries where agriculture is a cornerstone of the economy. Research like this not only provides solutions to pressing agricultural problems but also empowers countries like Bangladesh to take proactive steps in protecting their food supply. By integrating cutting-edge genetic techniques with sustainable farming practices, this work offers hope for a future where crops are more resilient, food supplies are secure, and farming is less reliant on harmful chemicals.
+Concurrently, X-ray  and Ion beam  treatments were advanced to the M4 generation, yielding promising resistant lines, respectively. Collectively, these selected mutants demonstrate significant potential for integration into varietal development programs to enhance global food security.
 
-In essence, this research serves as a shining example of how science can address real-world challenges, ensuring that humanity is better prepared to feed a growing population in the face of changing climates and evolving pathogens.
+### Biological Control of Wheat Blast
+Wheat blast being a critical threat to global wheat production necessitates sustainable alternatives to conventional chemical fungicides that are prone to resistance issues. This study highlights the potent antifungal efficacy of 3-methyl-pentanoic acid (3-MP), a volatile organic compound produced by the endophytic bacterium Bacillus safensis. In vitro experiments demonstrated that 3-MP inhibits MoT mycelial growth, conidial germination, and appressorium formation in a dose-dependent manner, achieving complete inhibition—a potency comparable to the commercial fungicide Nativo® WG 75.
+
+Mechanistically, 3-MP induces fungal cell death by compromising membrane integrity and causing hyphal deformities, while molecular simulations indicate it disrupts essential pathways such as cell wall biosynthesis and oxidative stress response. These findings were validated in planta, where 3-MP significantly reduced disease severity in detached leaves, seedlings, and wheat spikes through both preventive and curative applications, establishing it as a promising, eco-friendly biofumigant for sustainable wheat blast management.
+
+![image20251](assets/img/img20251.jpeg)
+Figure: Micrograph representing the suppression of mycelial growth of 3-MP in PDA
+![image20252](assets/img/img20252.jpeg)
+Figure: Photographs showing the disease severity in wheat seedlings
 
 ## Research Experience
 
