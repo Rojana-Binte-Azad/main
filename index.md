@@ -210,7 +210,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
    - **<span style="color:#33bbff">Bachelor of Science, Agriculture</span>** - (_January 2017 - December 2021_)
      -  Gazipur Agricultural University (GAU) \[ Formerly Known as Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)]
-        - CGPA: **3.879/4.00** 
+        - CGPA: **3.873/4.00** 
    
 ---
 
@@ -218,11 +218,11 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 - **<span style="color:#33bbff">National Science and Technology Fellowship</span>**, *Ministry of Science and Technology, People's Republic of Bangladesh* (2022-2023)
   
-- **<span style="color:#33bbff">BSMRAU Innovation Fund</span>**, *Research Management Wing (RMW), BSMRAU* (2023)
+- **<span style="color:#33bbff">Innovation Fund</span>**, *Research Management Wing (RMW), GAU* (2023)
   
-- **<span style="color:#33bbff">Merit Scholarship from Faculty of Agriculture</span>**, *BSMRAU* (2017-2020)
+- **<span style="color:#33bbff">Merit Scholarship from Faculty of Agriculture</span>**, *GAU* (2017-2020)
   - At undergraduate education level
-- **<span style="color:#33bbff">Merit Scholarship from Faculty of Graduate Studies</span>**, *BSMRAU* (2022)
+- **<span style="color:#33bbff">Merit Scholarship from Faculty of Graduate Studies</span>**, *GAU* (2022)
 
 <a href="#top">Go to top</a>
 
