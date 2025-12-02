@@ -4,7 +4,7 @@
 
 Hello! I am Rojana Binte Azad, 
 Aspiring Plant Genomicist & Biotechnologist | M.S. in Biotechnology and Genetic Engineering
-I am a plant researcher passionate about engineering climate-resilient crops. My work bridges the gap between molecular breeding and functional genomics. Previously, I utilized Marker-Assisted Selection (MAS) to stack blast-resistance genes ($Rmg8$ and $2NS$) into wheat 11and investigated the chemical ecology of host-microbe interactions22. I am now seeking to leverage Plant Genomics and Functional Genetics to decode the complex genetic networks underlying disease resistance and crop yield.
+I am a plant researcher passionate about engineering climate-resilient crops. My work bridges the gap between molecular breeding and functional genomics. Previously, I utilized Marker-Assisted Selection (MAS) to stack blast-resistance genes (_Rmg8_ and _2NS_) into wheat 11and investigated the chemical ecology of host-microbe interactions. I am now seeking to leverage Plant Genomics and Functional Genetics to decode the complex genetic networks underlying disease resistance and crop yield.
 
 ---
 
@@ -51,9 +51,10 @@ Additionally, the study demonstrated that combining resistance genes can be more
 ![image20254](assets/img/img20254.jpeg)
 
 ### Mutation Breeding Approach
-To combat the growing threat of wheat blast, a comprehensive mutation breeding program was executed utilizing Gamma ray, X-ray, and Ion beam irradiation to induce resistance in high-yielding wheat varieties. Employing an ear-to-row method and rigorous artificial inoculation assays, populations were advanced and screened across multiple generations for disease resistance and agronomic performance. The Gamma irradiation trial advanced to the M5 generation, resulting in the selection superior progenies characterized by low disease severity and high yield potential.
+To combat the growing threat of wheat blast, a comprehensive mutation breeding program was executed utilizing Gamma ray, X-ray, and Ion beam irradiation to induce resistance in high-yielding wheat varieties. Employing an ear-to-row method and rigorous artificial inoculation assays, populations were advanced and screened across multiple generations for disease resistance and agronomic performance. The Gamma irradiation trial advanced to the M5 generation, resulting in the selection superior progenies characterized by low disease severity and high yield potential. Concurrently, X-ray  and Ion beam  treatments were advanced to the M4 generation, yielding promising resistant lines, respectively. Collectively, these selected mutants demonstrate significant potential for integration into varietal development programs to enhance global food security.
 
-Concurrently, X-ray  and Ion beam  treatments were advanced to the M4 generation, yielding promising resistant lines, respectively. Collectively, these selected mutants demonstrate significant potential for integration into varietal development programs to enhance global food security.
+![image20256](assets/img/img20256.jpg)
+Figure: Blast resistance selected plants and control plant during field screening
 
 ### Biological Control of Wheat Blast
 Wheat blast being a critical threat to global wheat production necessitates sustainable alternatives to conventional chemical fungicides that are prone to resistance issues. This study highlights the potent antifungal efficacy of 3-methyl-pentanoic acid (3-MP), a volatile organic compound produced by the endophytic bacterium Bacillus safensis. In vitro experiments demonstrated that 3-MP inhibits MoT mycelial growth, conidial germination, and appressorium formation in a dose-dependent manner, achieving complete inhibition—a potency comparable to the commercial fungicide Nativo® WG 75.
@@ -65,6 +66,11 @@ Figure: Micrograph representing the suppression of mycelial growth of 3-MP in PD
 ![image20252](assets/img/img20252.jpeg)
 Figure: Photographs showing the disease severity in wheat seedlings
 
+### Characterization and Biocontrol of Spot Blotch Disease
+In response to the 2024 re-emergence of Spot Blotch Disease in Bangladesh, this study conducted the first comprehensive molecular characterization of the causal agent, Bipolaris sorokiniana. Isolates were identified via Sanger sequencing (ITS and genome-specific primers) and pathogenicity was confirmed through Koch’s postulates. To explore sustainable management options, the study evaluated the antifungal potential of 3-Methyl-pentanoic acid (3-MP), a VOC from Bacillus safensis, alongside seven other bacterial isolates. These antagonists demonstrated efficacy in in vitro and in vivo assays and were fully characterized using 16S sequencing, Gram staining, and biochemical tests (oxidase, catalase, biofilm formation), offering critical insights for controlling this fungal threat.
+
+![image20255](assets/img/img20255.jpeg)
+
 ## Research Experience
 
 **<span style="color:#33bbff">Identification of Novel Blast Resistant Wheat Lines Carrying _2NS_ Translocation and _Rmg8_ in F3 Population of Introgressed BARI Gom 33</span>**
@@ -74,8 +80,6 @@ Figure: Photographs showing the disease severity in wheat seedlings
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)  
 
 **Job Description:** Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
-
-**Research Paper:**  Manuscript in progress  
 
 **Techniques Used:**  
 - Marker-Assisted Selection (Plant DNA and RNA Extraction PCR with *Rmg8*-specific markers (KM65 and KM171) and a *2NS*-specific marker (VENTRUIP-F/LN2-R), Gel Documentation)  
@@ -92,8 +96,6 @@ Figure: Photographs showing the disease severity in wheat seedlings
 
 **Job Description:**  Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this study focused on developing resistant lines compared to the control parent through gamma-ray irradiation, X-ray irradiation, and ion beam irradiation, offering potential solutions to address the emerging blast threat.  
 
-**Research Paper:**  Manuscript in progress  
-
 **Techniques Used:**  
 - Seed treatment with irradiation  
 - Bioassay with a virulent isolate of *MoT* (BTJP4-5)  
@@ -108,8 +110,6 @@ Figure: Photographs showing the disease severity in wheat seedlings
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://gau.edu.bd/dipali/)
 
 **Job Description:** Developing a biocontrol strategy against blast disease by investigating the anti-fungal activity of 3-Methyl-pentanoic acid (3MP), a VOC produced by *Bacillus safensis*, to induce systemic resistance in wheat.  
-
-**Research Paper:** Manuscript in progress  
 
 **Techniques used:**
 - In vitro assay of compound against MoT fungus
@@ -126,8 +126,6 @@ Figure: Photographs showing the disease severity in wheat seedlings
 
 **Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
 
-**Research Paper:** Manuscript in progress  
-
 **Techniques used:**
 - Fungal isolation from diseased sample
 - Bacteria isolation
@@ -142,19 +140,27 @@ Figure: Photographs showing the disease severity in wheat seedlings
 
 ## Publications & Preprints
 
-1. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
+1. [Horizontal Gene Transfer in Plants and Implications for Biotechnology.] https://doi.org/10.1002/pei3.70087)
+**Azad, R. B.**, Kasfy, S. H. , Molla, K. A. & Islam, M. T. (2025). Plant- Environment Interaction, 6.5,  e70087.
+    <details>
+        <summary><strong>Abstract</strong></summary>
+        Horizontal gene transfer (HGT), a fundamental process long acknowledged in prokaryotic evolution, is increasingly recognized as a pivotal force in shaping the evolutionary trajectories of eukaryotes, including plants. Despite its established significance in prokaryotic adaptation, the role of HGT in eukaryotic evolution is still understudied. HGT plays a pivotal role in the evolution of eukaryotes, giving rise to novel features that allow organisms to exploit new environments and resources with reduced competition. Moreover, the coevolution of interacting organisms in any ecosystem is greatly influenced by HGT. Recent discoveries of HGT events among eukaryotic species such as gene transfers from fungi to plants and from plants to whiteflies highlight the importance of understanding this phenomenon in the context of plant biology. In this review, we provide an update of recent findings related to plant and associated organisms like microorganisms, insects, and critically discuss the profound implications of HGT for plant evolution and adaptation, probing into potential underlying mechanisms, highlighting the knowledge gap and discussing their implications. In particular, we explore the potential applications of the new knowledge of HGT in plant biotechnology, illuminating its pivotal role in shaping the future landscape of bioengineering.
+    </details>
+
+2. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
     <details>
         <summary><strong>Abstract</strong></summary>
         Characterization of <i>Rmg8</i>, the major resistancegene for wheat blast found in common wheat,brought a surprise: it is a variant of <i>Pm4</i>, aresistance gene for powdery mildew disease. Both genes recognize the AVR-<i>Rm8</i> gene ofthe wheat blast fungus <i>Magnaporthe oryzaepathotype Triticum</i> (MoT), which resultsin resistance against this pathogen. This discovery opens avenues for developing wheatvarieties to combat wheat blast disease. 
     </details>
 
 
-2. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
+3. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
 Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
     <details>
         <summary><strong>Abstract</strong></summary>
         The recent discovery of the horizontal transfer of a toxin-neutralizing gene from plant to whitefly (<i>Bemisia tabaci</i>), a polyphagous insect, sparked a new area of study. In this forum, we discuss some potential biotechnological applications of this newly discovered knowledge in the coevolutionary arms race between plants and whitefly.
     </details>
+
 
 ## Presentations
 
