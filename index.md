@@ -53,7 +53,7 @@ Additionally, the study demonstrated that combining resistance genes can be more
 ### Mutation Breeding Approach
 To combat the growing threat of wheat blast, a comprehensive mutation breeding program was executed utilizing Gamma ray, X-ray, and Ion beam irradiation to induce resistance in high-yielding wheat varieties. Employing an ear-to-row method and rigorous artificial inoculation assays, populations were advanced and screened across multiple generations for disease resistance and agronomic performance. The Gamma irradiation trial advanced to the M5 generation, resulting in the selection superior progenies characterized by low disease severity and high yield potential. Concurrently, X-ray  and Ion beam  treatments were advanced to the M4 generation, yielding promising resistant lines, respectively. Collectively, these selected mutants demonstrate significant potential for integration into varietal development programs to enhance global food security.
 
-![image20256](assets/img/img20256.png)
+<img src="assets/img/img20256.png" alt="drawing" width="200"/>
 Figure: Blast resistance selected plants and control plant during field screening
 
 ### Biological Control of Wheat Blast
