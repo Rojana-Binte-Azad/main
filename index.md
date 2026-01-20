@@ -3,7 +3,7 @@
 ## Welcome to Rojana Binte Azad's Website
 
 Hello! I am Rojana Binte Azad, 
-Aspiring Plant Genomicist & Biotechnologist | M.S. in Biotechnology and Genetic Engineering
+Aspiring Plant Genomicist & Biotechnologist | M.S. in Biotechnology and Genetic Engineering.
 I am a plant researcher passionate about engineering climate-resilient crops. My work bridges the gap between molecular breeding and functional genomics. Previously, I utilized Marker-Assisted Selection (MAS) to stack blast-resistance genes (_Rmg8_ and _2NS_) into wheat 11and investigated the chemical ecology of host-microbe interactions. I am now seeking to leverage Plant Genomics and Functional Genetics to decode the complex genetic networks underlying disease resistance and crop yield.
 
 ---
