@@ -140,21 +140,28 @@ In response to the 2024 re-emergence of Spot Blotch Disease in Bangladesh, this 
 
 ## Publications & Preprints
 
-1. [Horizontal Gene Transfer in Plants and Implications for Biotechnology.](https://doi.org/10.1002/pei3.70087)
+1. [Field pathogenomics and evolutionary conservation unveil CRISPR-targetable susceptibility genes for wheat blast resistance.](https://doi.org/10.1038/s41598-026-36547-6)
+Khayer , A., Ye, P., Eti, F. S., **Azad, R. B.**, Ali, J., Gupta, D. R., Bhattacharjee , P., Kang, H. \& Islam, M. T. (2026). Scientific Reports.
+    <details>
+        <summary><strong>Abstract</strong></summary>
+        Wheat blast, caused by <i>Magnaporthe oryzae</i> pathotype <i>Triticum</i> (MoT), threatens global wheat production, yet durable resistance mechanisms remain elusive. Current strategies relying on race-specific resistance genes or fungicides are vulnerable to pathogen evolution and inefficacy. Here, we investigated field-derived transcriptomes from the 2016 Bangladesh wheat blast epidemic, a catastrophic event devastating all local varieties to identify host susceptibility (S) genes co-opted by MoT. By analyzing RNA-seq data from infected and healthy plants across geographically distinct regions, we pinpointed 273 consistently upregulated wheat genes, enriched in defense-related pathways. Ortholog analysis with rice, a model for blast resistance, identified three conserved susceptibility (S)-gene candidates: <i>TaSULTR3-3B</i> (an ortholog of a rice bacterial blight susceptibility gene), <i>TaSTP3-4D</i> (associated with stripe rust), and <i>TaMLO1-5A</i> (a wheat powdery mildew susceptibility gene). While all three candidates exhibited significant expression correlation with <i>M. oryzae Triticum</i> (MoT) effectors in field-derived samples, in planta spike assays revealed distinct expression dynamics. Only <i>TaMLO1-5A</i> was significantly upregulated in the susceptible cultivar BARI Gom 26 following MoT inoculation, with no induction observed in the resistant cultivar <i>S-615</i> (carrying <i>Rmg8</i>). Conversely, <i>TaSULTR3-3B</i> and <i>TaSTP3-4D</i> did not show significant induction under the specific conditions and time points of the in planta spike assays. This discrepancy potentially arises from tissue-specific regulation (spike vs. leaf), environmental variations, or differences in sampling time points between the field and greenhouse experiments. Disruption of such S genes, validated in other cereals for durable resistance, offers a transformative strategy to engineer non-race-specific wheat blast resilience. Our findings shift the paradigm from transient resistance genes to foundational susceptibility networks, proposing CRISPR-based editing of the candidate gene as an actionable target. This approach, resilient to pathogen evolution, could preempt epidemics in climate-vulnerable regions, safeguarding global wheat security. By bridging field pathogenomics and evolutionary genomics, we provide a roadmap for sustainable disease management in an era of expanding fungal threats.
+    </details>
+
+2. [Horizontal Gene Transfer in Plants and Implications for Biotechnology.](https://doi.org/10.1002/pei3.70087)
 **Azad, R. B.**, Kasfy, S. H. , Molla, K. A. & Islam, M. T. (2025). Plant- Environment Interaction, 6.5,  e70087.
     <details>
         <summary><strong>Abstract</strong></summary>
         Horizontal gene transfer (HGT), a fundamental process long acknowledged in prokaryotic evolution, is increasingly recognized as a pivotal force in shaping the evolutionary trajectories of eukaryotes, including plants. Despite its established significance in prokaryotic adaptation, the role of HGT in eukaryotic evolution is still understudied. HGT plays a pivotal role in the evolution of eukaryotes, giving rise to novel features that allow organisms to exploit new environments and resources with reduced competition. Moreover, the coevolution of interacting organisms in any ecosystem is greatly influenced by HGT. Recent discoveries of HGT events among eukaryotic species such as gene transfers from fungi to plants and from plants to whiteflies highlight the importance of understanding this phenomenon in the context of plant biology. In this review, we provide an update of recent findings related to plant and associated organisms like microorganisms, insects, and critically discuss the profound implications of HGT for plant evolution and adaptation, probing into potential underlying mechanisms, highlighting the knowledge gap and discussing their implications. In particular, we explore the potential applications of the new knowledge of HGT in plant biotechnology, illuminating its pivotal role in shaping the future landscape of bioengineering.
     </details>
 
-2. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
+3. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
     <details>
         <summary><strong>Abstract</strong></summary>
         Characterization of <i>Rmg8</i>, the major resistancegene for wheat blast found in common wheat,brought a surprise: it is a variant of <i>Pm4</i>, aresistance gene for powdery mildew disease. Both genes recognize the AVR-<i>Rm8</i> gene ofthe wheat blast fungus <i>Magnaporthe oryzaepathotype Triticum</i> (MoT), which resultsin resistance against this pathogen. This discovery opens avenues for developing wheatvarieties to combat wheat blast disease. 
     </details>
 
 
-3. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
+4. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
 Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
     <details>
         <summary><strong>Abstract</strong></summary>
